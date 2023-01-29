@@ -1,0 +1,24 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header{
+    background-color: rgb(232, 214, 241);
+    border-radius: 20%;
+    text-align: center;
+}
+
+section{
+    background-color: rgb(223, 232, 236);
+    border-radius: 10%;
+}
+
+h3,h2{
+    background-color: rgb(171, 214, 226);
+    border-radius: 50%;
+}
+
+footer{
+    background-color: rgb(224, 201, 238);
+    border-radius: 25%;
+}
